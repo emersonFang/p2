@@ -3,7 +3,7 @@ by Emerson Fang
 9/22/2015
 
 ##Live URL
-<p2.emersonfang.me>
+~~<p2.emersonfang.me>~~
 
 ##Description
 Generates an [xkcd style password].  The user can customize the password (i.e. 
